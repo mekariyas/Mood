@@ -1,4 +1,3 @@
-import React from 'react'
 import { createBrowserRouter, RouterProvider } from "react-router-dom"
 import Index from "./pages/Index.tsx"
 import Home from "./pages/Home.tsx"

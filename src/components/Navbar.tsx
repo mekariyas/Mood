@@ -1,5 +1,5 @@
 import { useState } from "react"
-import { NavLink,isActive } from "react-router-dom"
+import { NavLink } from "react-router-dom"
 
 const Navbar = () => {
   const [visible, setVisible] = useState<boolean>(false)
