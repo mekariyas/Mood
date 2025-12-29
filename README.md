@@ -6,6 +6,7 @@ This is a website that I built for a Jeans sotre. It is based on a goodbrief pro
 ## Tech Stack
   - React
   - Typescript
+  - React-Router
   - Tailwind Css
   - Framer Motion
 
