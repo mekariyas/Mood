@@ -1,5 +1,5 @@
 import AboutUs from "../assets/about/About-us.webp"
-import OurMission from "../assets/about/our-mission.webp"
+import OurMission from "../assets/about/Our-mission.webp"
 import Team from "../assets/about/our-team.webp"
 
 const About = () => {
